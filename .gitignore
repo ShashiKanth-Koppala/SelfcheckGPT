@@ -1,0 +1,15 @@
+venv/
+__pycache__/
+.DS_Store
+*.pyc
+
+celebrities_data.json
+generated_biographies.json
+extracted_facts.json
+fact_verification_results.json
+consensus_contradiction_scores.json
+nli_consensus_contradiction_scores.json
+fact_consistency_scores.json
+fact_consistency_scores_65.json
+person_consistency_summary_65.json
+test.py
