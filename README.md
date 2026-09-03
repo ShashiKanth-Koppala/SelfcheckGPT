@@ -81,3 +81,9 @@ This is the known blind spot of self-consistency-based hallucination detection: 
 
 ## AI USAGE
 I have used LLM's to assisnt myself in generating the code. All the results have been manually verified before commiting. If any discrepancy is found please raise an issue and would right away rectify it.
+
+
+## References
+
+- [SelfCheckGPT (Manakul et al., 2023)](https://arxiv.org/abs/2303.08896) — the paper this project is based on
+- [cross-encoder/nli-deberta-v3-base](https://huggingface.co/cross-encoder/nli-deberta-v3-base) — the NLI model used for contradiction detection
